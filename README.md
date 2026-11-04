@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-<a href="https://github.com/archikqqq/luna"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-luna-dark.svg"><img src="assets/project-luna-light.svg" width="49%" alt="luna"></picture></a>&nbsp;<a href="https://github.com/archikqqq/PixelVT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pixelvt-dark.svg"><img src="assets/project-pixelvt-light.svg" width="49%" alt="PixelVT"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Серия"></picture>
