@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "login": "archikqqq",
+  "seed": "#333333",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Привет, я",
+    "name": "",
+    "subtitle": "UI/UX Concept designer/ Vibecoder",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Mythishi"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · Kotlin"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Разработчик и дизайнер"
+      },
+      {
+        "icon": "code",
+        "label": "В основном вайбкод"
+      },
+      {
+        "icon": "palette",
+        "label": "Люблю Material Design 3 Expressive"
+      },
+      {
+        "icon": "pedal_bike",
+        "label": "Фрирайдер, коплю на Stark Shooter 2"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android Studio"
+          },
+          {
+            "icon": "brand:claude",
+            "label": "Claude"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {
+      "luna": {
+        "text": "Приложение, для API ключей от ИИ с MD3E",
+        "shape": "cookie"
+      },
+      "PixelVT": {
+        "icon": "brand:virustotal"
+      }
+    },
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/archikqqq"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/SMp2Xdw2"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@archiktech?"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@haisentechtok?"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Мой сайт",
+        "url": "archik.neocities.org ",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
