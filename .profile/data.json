@@ -1,25 +1,29 @@
 {
- "key": "a048ac2e",
+ "key": "26ae65c2",
  "stars": 0,
  "contributions": 14,
  "repos": 4,
  "followers": 0,
  "languages": [
   [
+   "Rust",
+   313927
+  ],
+  [
    "TypeScript",
-   116793
+   277034
   ],
   [
    "CSS",
-   32012
-  ],
-  [
-   "Rust",
-   23474
+   74286
   ],
   [
    "JavaScript",
-   3907
+   23575
+  ],
+  [
+   "NSIS",
+   517
   ],
   [
    "HTML",
@@ -110,9 +114,13 @@
    {
     "c": 0,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -149,7 +157,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "TypeScript",
+   "language": "Rust",
    "topics": []
   },
   {
