@@ -1,10 +1,14 @@
 {
- "key": "8aeba00f",
+ "key": "ed65daf8",
  "stars": 0,
  "contributions": 19,
  "repos": 6,
  "followers": 0,
  "languages": [
+  [
+   "Kotlin",
+   364464
+  ],
   [
    "Rust",
    325412
@@ -12,10 +16,6 @@
   [
    "TypeScript",
    283344
-  ],
-  [
-   "Kotlin",
-   233705
   ],
   [
    "CSS",
